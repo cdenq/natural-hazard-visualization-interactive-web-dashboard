@@ -1,5 +1,5 @@
 # natural-hazard-visualization-interactive-web-dashboard
-## About Belly Button Biodiversity
+## Visualizing Data with Leaflet
 
 `Visualizing Data with Leaflet` is a HTML/CSS/JS challenge that pulls, cleans, analyzes, and visualizes natural hazard data from USGS (United States Geological Survey) onto an interactive web dashboard. Live website can be found [here](https://cdenq.github.io/natural-hazard-visualization-interactive-web-dashboard/).
 
